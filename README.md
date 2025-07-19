@@ -7,7 +7,7 @@ You said:
         <span>Ujwala Sunkanapally</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>I'm a graduate in Masters in Health informatics form George Mason University</p>
+        <p>I'm a graduate with a Master's in Health informatics from George Mason University</p>
         <a href="https://github.com/ujwala1412" class="btn btn--red">Get in touch</a>
     </div>
 </div>
@@ -69,13 +69,6 @@ You said:
     </p>
   </div>
 
-<img
-    src="./images/profilepic.jpg"
-    class="work__image"
-    alt="Portfolio Profile Picture"
-/>
-
-
 <section class="about" id="about">
     <div class="row">
         <h2>About Me</h2>
@@ -95,7 +88,7 @@ You said:
             <div class="about__photo-container">
                 <img
                 class="about__photo"
-                src="./images/profilepic.jpg"
+                src="./images/Professional Portfolio Oicture.jpg"
                 alt="Portfolio Profile Picture"
                 />
             </div>
