@@ -88,8 +88,8 @@ You said:
             <div class="about__photo-container">
                 <img
                 class="about__photo"
-                src="./Images/Professional Portfolio Picture.jpg"
-                alt="Portfolio Profile Picture"
+                src="./Images/Professional_Portfolio_Picture.jpg"
+                alt="PortfolioProfilePicture"
                 />
             </div>
         </div>
