@@ -13,6 +13,28 @@ You said:
   </div>
 </div>
 
+<section class="about" id="about">
+  <div class="row">
+    <h2>About Me</h2>
+    <div class="about__photo-container">
+        <img
+          class="about__photo"
+          src="./Images/Professional_Portfolio_Picture.jpg"
+          alt="Portfolio Profile Picture"
+        />
+      </div>
+    <div class="about__content">
+      <div class="about__text">
+        <p>
+          Graduate Student in Health Informatics at George Mason University with a strong background in data analytics, machine learning, and healthcare research. Passionate about leveraging data to drive impactful health outcomes. Proficient in Python, R, SQL, and statistical analysis with hands-on experience in predictive modeling and clinical research.
+        </p>
+        <!-- Link to your resume PDF -->
+        <a href="./Ujwala_Resume_final_2.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="projects" id="projects">
   <h2 class="section-title">Projects</h2>
 
@@ -70,28 +92,6 @@ You said:
     <p>
       Conducted a comparative study at Singareni Collieries Company Limited, Main Hospital, Bhadradri Kothagudem, to determine the prevalence of PCOS risk factors and complications among patients versus individuals without PCOS, identifying unique clinical trends in the coal mining population.
     </p>
-  </div>
-</section>
-
-<section class="about" id="about">
-  <div class="row">
-    <h2>About Me</h2>
-    <div class="about__photo-container">
-        <img
-          class="about__photo"
-          src="./Images/Professional_Portfolio_Picture.jpg"
-          alt="Portfolio Profile Picture"
-        />
-      </div>
-    <div class="about__content">
-      <div class="about__text">
-        <p>
-          Graduate Student in Health Informatics at George Mason University with a strong background in data analytics, machine learning, and healthcare research. Passionate about leveraging data to drive impactful health outcomes. Proficient in Python, R, SQL, and statistical analysis with hands-on experience in predictive modeling and clinical research.
-        </p>
-        <!-- Link to your resume PDF -->
-        <a href="./Ujwala_Resume_final_2.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
-      </div>
-    </div>
   </div>
 </section>
 
