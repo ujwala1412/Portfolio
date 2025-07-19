@@ -1,18 +1,21 @@
 You said:
 # Portfolio
+
 <div class="header__text-box row">
-    <div class="header__text">
-        <h1 class="heading-primary">
-        <!-- Replace the following name with your name -->
-        <span>Ujwala Sunkanapally</span>
-        </h1>
-        <!-- Put a small paragraph about yourself -->
-        <p>I'm a graduate with a Master's in Health informatics from George Mason University</p>
-        <a href="https://github.com/ujwala1412" class="btn btn--red">Get in touch</a>
-    </div>
+  <div class="header__text">
+    <h1 class="heading-primary">
+      <!-- Replace the following name with your name -->
+      <span>Ujwala Sunkanapally</span>
+    </h1>
+    <!-- Put a small paragraph about yourself -->
+    <p>I'm a graduate with a Master's in Health Informatics from George Mason University.</p>
+    <a href="https://github.com/ujwala1412" class="btn btn--red">Get in touch</a>
+  </div>
 </div>
+
 <section class="projects" id="projects">
   <h2 class="section-title">Projects</h2>
+
   <div class="project-card">
     <h3>Jan 2025 – May 2025 | Capstone Project: Low-Cost PCOS Prediction Using Machine Learning</h3>
     <p>
@@ -68,52 +71,47 @@ You said:
       Conducted a comparative study at Singareni Collieries Company Limited, Main Hospital, Bhadradri Kothagudem, to determine the prevalence of PCOS risk factors and complications among patients versus individuals without PCOS, identifying unique clinical trends in the coal mining population.
     </p>
   </div>
-
-<section class="about" id="about">
-    <div class="row">
-        <h2>About Me</h2>
-        <div class="about__content">
-            <div class="about__text">
-                <p>
-                Graduate Student in Health Informatics at George Mason University with a 
-                strong background in data analytics, machine learning, and healthcare 
-                research. Passionate about leveraging data to drive impactful health 
-                outcomes. Proficient in Python, R, SQL, and statistical analysis with hands-on 
-                experience in predictive modeling and clinical research.
-                </p>
-                <!-- Link to your resume PDF -->
-                <a href="./Ujwala_Resume_final_2.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
-            </div>
-
-            <div class="about__photo-container">
-                <img
-                class="about__photo"
-                src="./Images/Professional_Portfolio_Picture.jpg"
-                alt="PortfolioProfilePicture"
-                />
-            </div>
-        </div>
-    </div>
 </section>
 
+<section class="about" id="about">
+  <div class="row">
+    <h2>About Me</h2>
+    <div class="about__content">
+      <div class="about__text">
+        <p>
+          Graduate Student in Health Informatics at George Mason University with a strong background in data analytics, machine learning, and healthcare research. Passionate about leveraging data to drive impactful health outcomes. Proficient in Python, R, SQL, and statistical analysis with hands-on experience in predictive modeling and clinical research.
+        </p>
+        <!-- Link to your resume PDF -->
+        <a href="./Ujwala_Resume_final_2.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
+      </div>
+      <div class="about__photo-container">
+        <img
+          class="about__photo"
+          src="./images/Professional_Portfolio_Picture.jpg"
+          alt="Portfolio Profile Picture"
+        />
+      </div>
+    </div>
+  </div>
+</section>
 
 <section class="skills" id="skills">
-    <div class="row">
-        <h2>Skills</h2>
-        <div class="skills__content">
-            <ul class="skills__list">
-                <li>Python</li>
-                <li>R Programming</li>
-                <li>SQL</li>
-                <li>SAS</li>
-                <li>MATLAB</li>
-                <li>Statistical Analysis</li>
-                <li>Data Visualization</li>
-                <li>Machine Learning</li>
-                <li>Microsoft Office Suite</li>
-            </ul>
-        </div>
+  <div class="row">
+    <h2>Skills</h2>
+    <div class="skills__content">
+      <ul class="skills__list">
+        <li>Python</li>
+        <li>R Programming</li>
+        <li>SQL</li>
+        <li>SAS</li>
+        <li>MATLAB</li>
+        <li>Statistical Analysis</li>
+        <li>Data Visualization</li>
+        <li>Machine Learning</li>
+        <li>Microsoft Office Suite</li>
+      </ul>
     </div>
+  </div>
 </section>
 
 <section class="contact" id="contact">
@@ -131,27 +129,20 @@ You said:
     <!-- Only LinkedIn social link included -->
     <ul class="footer__social-links">
       <li class="footer__social-link-item">
-        <a href="https://www.linkedin.com/in/drujwalasunkanapallyy-163679204/">
+        <a href="https://www.linkedin.com/in/drujwalasunkanapallyy-163679204/" target="_blank" rel="noopener noreferrer">
           <img src="./images/linkedin.svg" class="footer__social-image" alt="LinkedIn" />
         </a>
       </li>
     </ul>
 
     <!-- GitHub watch button for ujwala1412/Portfolio -->
-    <div class="footer__github-buttons">
-      <iframe
-        src="https://ghbtns.com/github-btn.html?user=ujwala1412&repo=Portfolio&type=watch&count=true"
-        frameborder="0"
-        scrolling="0"
-        width="170"
-        height="20"
-        title="Watch Portfolio on GitHub"
-      ></iframe>
-    </div>
+    <a href="https://github.com/ujwala1412/Portfolio/watchers">
+      <img src="https://img.shields.io/github/watchers/ujwala1412/Portfolio?style=social" alt="Watch the repo" />
+    </a>
 
     <!-- Footer text below the GitHub button -->
-    <p class="footer__github-credit">
-      &copy; 2020 - Template designed &amp; developed by <a href="https://github.com/ujwala1412/Portfolio">Ujwala1412</a>.
-    </p>
+    <div>
+      &copy; 2020 - Template designed & developed by <a href="https://github.com/ujwala1412/Portfolio">Ujwala1412</a>.
+    </div>
   </div>
 </footer>
