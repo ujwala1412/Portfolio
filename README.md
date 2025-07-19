@@ -88,7 +88,7 @@ You said:
             <div class="about__photo-container">
                 <img
                 class="about__photo"
-                src="./Images/Professional Portfolio Picture.jpg"
+                src="https://github.com/ujwala1412/Portfolio/blob/main/Images/Professional%20Portfolio%20Picture.jpg"
                 alt="Portfolio Profile Picture"
                 />
             </div>
