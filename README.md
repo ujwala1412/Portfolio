@@ -76,6 +76,13 @@ You said:
 <section class="about" id="about">
   <div class="row">
     <h2>About Me</h2>
+    <div class="about__photo-container">
+        <img
+          class="about__photo"
+          src="./Images/Professional_Portfolio_Picture.jpg"
+          alt="Portfolio Profile Picture"
+        />
+      </div>
     <div class="about__content">
       <div class="about__text">
         <p>
@@ -83,13 +90,6 @@ You said:
         </p>
         <!-- Link to your resume PDF -->
         <a href="./Ujwala_Resume_final_2.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
-      </div>
-      <div class="about__photo-container">
-        <img
-          class="about__photo"
-          src="./Images/Professional_Portfolio_Picture.jpg"
-          alt="Portfolio Profile Picture"
-        />
       </div>
     </div>
   </div>
