@@ -134,15 +134,5 @@ You said:
         </a>
       </li>
     </ul>
-
-    <!-- GitHub watch button for ujwala1412/Portfolio -->
-    <a href="https://github.com/ujwala1412/Portfolio/watchers">
-      <img src="https://img.shields.io/github/watchers/ujwala1412/Portfolio?style=social" alt="Watch the repo" />
-    </a>
-
-    <!-- Footer text below the GitHub button -->
-    <div>
-      &copy; 2020 - Template designed & developed by <a href="https://github.com/ujwala1412/Portfolio">Ujwala1412</a>.
-    </div>
   </div>
 </footer>
