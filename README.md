@@ -1,3 +1,4 @@
+You said:
 # Portfolio
 <div class="header__text-box row">
     <div class="header__text">
@@ -10,10 +11,8 @@
         <a href="https://github.com/ujwala1412" class="btn btn--red">Get in touch</a>
     </div>
 </div>
-
 <section class="projects" id="projects">
   <h2 class="section-title">Projects</h2>
-
   <div class="project-card">
     <h3>Jan 2025 – May 2025 | Capstone Project: Low-Cost PCOS Prediction Using Machine Learning</h3>
     <p>
@@ -70,18 +69,12 @@
     </p>
   </div>
 
-  <div class="project-links">
-    <a href="https://github.com/ujwala1412/Portfolio" target="_blank" class="link__text">
-      View Portfolio Template Reference <span>&rarr;</span>
-    </a>
-  </div>
-</section>
-
 <img
     src="./images/profilepic.jpg"
     class="work__image"
     alt="Portfolio Profile Picture"
 />
+
 
 <section class="about" id="about">
     <div class="row">
@@ -95,12 +88,11 @@
                 outcomes. Proficient in Python, R, SQL, and statistical analysis with hands-on 
                 experience in predictive modeling and clinical research.
                 </p>
-                <!-- Provide a link to your resume -->
-                <a href="#" class="btn">My Resume</a>
+                <!-- Link to your resume PDF -->
+                <a href="./Ujwala_Resume_final_2.pdf" class="btn" target="_blank" rel="noopener noreferrer">My Resume</a>
             </div>
 
             <div class="about__photo-container">
-                <!-- Add a nice photo of yourself -->
                 <img
                 class="about__photo"
                 src="./images/profilepic.jpg"
@@ -110,6 +102,7 @@
         </div>
     </div>
 </section>
+
 
 <section class="skills" id="skills">
     <div class="row">
@@ -169,4 +162,3 @@
     </p>
   </div>
 </footer>
-
